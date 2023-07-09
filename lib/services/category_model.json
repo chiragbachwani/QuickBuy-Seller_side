@@ -1,0 +1,76 @@
+{
+    "categories":[
+        {
+            "name":"Men Clothing & Fashion",
+            "subcategory":[
+                "Outwear & jackets",
+                "Formal dress",
+                "Accessories"
+            ]
+        },
+        {
+            "name":"Computer & Accessories",
+            "subcategory":[
+                "Laptop",
+                "Gaming pc",
+                "Official equipment"
+            ]
+        },
+        {
+            "name":"Automobile",
+            "subcategory":[
+                "Electric Vehicles",
+                "Petrol Vehicles",
+                "Accessories"
+            ]
+        },
+        {
+            "name":"Kids & Toys",
+            "subcategory":[
+                "Babycare Essentials",
+                "Babycare combos",
+                "Toys and Soft toys"
+            ]
+        },
+        {
+            "name":"Sports",
+            "subcategory":[
+                "Sports Shoes",
+                "Sports Gear",
+                "Smart Watches"
+            ]
+        },
+        {
+            "name":"Cellphone & Tab",
+            "subcategory":[
+                "Apple",
+                "Samsung",
+                "Realme"
+            ]
+        },
+        {
+            "name":"Jewelery",
+            "subcategory":[
+                "Earrings",
+                "Necklace",
+                "Bangles"
+            ]
+        },
+        {
+            "name":"Tools",
+            "subcategory":[
+                "Screwdriver Set",
+                "Hammer kit",
+                "Nail Gun"
+            ]
+        },
+        {
+            "name":"Furniture",
+            "subcategory":[
+                "Sofa",
+                "Beds",
+                "Mattress"
+            ]
+        }
+    ]
+}
